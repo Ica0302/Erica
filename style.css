@@ -20,5 +20,5 @@ body {
 
 .icon-container i:hover {
     transform: scale(1.5); 
-    color: #007bff; 
+    color: violet; 
 }
